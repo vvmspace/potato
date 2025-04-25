@@ -1,9 +1,9 @@
-# Content Goals for **potatoes.recipes**
+# Content Goals for **potato.recipes**
 
-**Primary Topic:** "potatoes recipes"
+**Primary Topic:** "potato"
 
-1. Provide comprehensive and valuable information about **"potatoes recipes"** to address user needs and search intent.
-2. Aim to rank on Google for **"potatoes recipes"** by covering relevant subtopics and related questions in depth.
-3. Establish **potatoes.recipes** as an authoritative source on the topic of **"potatoes recipes"** through well-researched and reliable content.
+1. Provide comprehensive and valuable information about **"potato"** to address user needs and search intent.
+2. Aim to rank on Google for **"potato"** by covering relevant subtopics and related questions in depth.
+3. Establish **potato.recipes** as an authoritative source on the topic of **"potato"** through well-researched and reliable content.
 
-The content should directly fulfill what users are looking for when they search for "potatoes recipes", ensuring a helpful and satisfying experience.
+The content should directly fulfill what users are looking for when they search for "potato", ensuring a helpful and satisfying experience.

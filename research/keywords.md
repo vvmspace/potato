@@ -1,16 +1,15 @@
-# Keyword Research for "potatoes recipes"
+# Keyword Research for "potato"
 
 ## Related Searches
 
-- undefined
-- Potato dishes list
-- Easy potato dishes
-- Simple potato recipes with few ingredients
-- Easy potato recipes for dinner
-- Potato main dish recipes
-- Unique potato recipes
-- Easy potato recipes for two
-- Roasted potatoes recipes
+- Potato price
+- Family of potato
+- Potato benefits
+- Potato app
+- Potato nutrition
+- Order of potato
+- Class of potato
+- Family name of potato
 
 ## SEO Recommendations
 
