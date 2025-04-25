@@ -1,3 +1,6 @@
+news/
+potato
+dimon
 # Generated files by hugo
 /public/
 /resources/_gen/
@@ -30,6 +33,3 @@ node_modules/
 
 playwright-report/
 test-results/
-news/
-potato
-dimon
